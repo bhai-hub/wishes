@@ -1,5 +1,5 @@
 function countdownTimer() {
-    const difference = +new Date("2023-07-10") - +new Date();
+    const difference = +new Date("2028-02-02") - +new Date();
     let remaining = "Time's up!";
   
     if (difference > 0) {
